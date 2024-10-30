@@ -1,0 +1,2 @@
+papel_celulose/Lib/site-packages/kaleido/executable/bin/kaleido.exe filter=lfs diff=lfs merge=lfs -text
+Forestry_E_All_Data/Forestry_E_All_Data.csv filter=lfs diff=lfs merge=lfs -text
